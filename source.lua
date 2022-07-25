@@ -1516,7 +1516,7 @@ Stand.MouseButton1Click:Connect(function()
 end)
 
 ServerAdmin.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://rawgithubusercontent.com/ONEReverseCard/My-Scripts/main/Netless%20Server%20Adminmd"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/TLSDhUpL"))()
 end)
 
 BanHammer.MouseButton1Click:Connect(function()
